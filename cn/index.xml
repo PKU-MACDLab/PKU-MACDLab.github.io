@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZHONGKUI LI</title>
-    <link>https://macd_lab.github.io/cn/</link>
+    <link>https://icawang.github.io/cn/</link>
     <description>Recent content on ZHONGKUI LI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn-zh</language><atom:link href="https://macd_lab.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn-zh</language><atom:link href="https://icawang.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

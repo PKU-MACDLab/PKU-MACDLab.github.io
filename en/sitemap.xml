@@ -1,44 +1,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-      <loc>https://macd_lab.github.io/categories/</loc>
+      <loc>https://icawang.github.io/categories/</loc>
       <xhtml:link
                   rel="alternate"
                   hreflang="cn"
-                  href="https://macd_lab.github.io/cn/categories/"
+                  href="https://icawang.github.io/cn/categories/"
                   />
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
-                  href="https://macd_lab.github.io/categories/"
+                  href="https://icawang.github.io/categories/"
                   />
     </url>
     
     <url>
-      <loc>https://macd_lab.github.io/tags/</loc>
+      <loc>https://icawang.github.io/tags/</loc>
       <xhtml:link
                   rel="alternate"
                   hreflang="cn"
-                  href="https://macd_lab.github.io/cn/tags/"
+                  href="https://icawang.github.io/cn/tags/"
                   />
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
-                  href="https://macd_lab.github.io/tags/"
+                  href="https://icawang.github.io/tags/"
                   />
     </url>
     
     <url>
-      <loc>https://macd_lab.github.io/</loc>
+      <loc>https://icawang.github.io/</loc>
       <xhtml:link
                   rel="alternate"
                   hreflang="cn"
-                  href="https://macd_lab.github.io/cn/"
+                  href="https://icawang.github.io/cn/"
                   />
       <xhtml:link
                   rel="alternate"
                   hreflang="en"
-                  href="https://macd_lab.github.io/"
+                  href="https://icawang.github.io/"
                   />
     </url>
     </urlset>
