@@ -11,7 +11,7 @@
 		<meta property="og:title" content="404 Page not found" />
 <meta property="og:description" content="Welcome to our MAC&amp;DLab!" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://icawang.github.io/cn/404.html" />
+<meta property="og:url" content="http://localhost:1313/cn/404.html" />
 
 
 		<meta itemprop="name" content="404 Page not found">
@@ -20,7 +20,7 @@
 
 	<link rel="stylesheet" href="/css/style.css">
 
-	<link rel="shortcut icon" href="https://icawang.github.io/favicon.ico">
+	<link rel="shortcut icon" href="http://localhost:1313/PKU.ico">
 
 	
 		
@@ -30,10 +30,12 @@
 	
 	<div class="logo">
 		<div class="container">
-			<a class="logo__link" href="/cn/" title="李忠奎    ZHONGKUI LI" rel="home">
+			<a class="logo__link" href="/cn" title="李忠奎    ZHONGKUI LI" rel="home">
 				<div class="logo__item logo__text">
 						<div class="logo__title">李忠奎    ZHONGKUI LI</div>
-						
+						<div class="logo__tagline1">北京大学 工学院  MAC&amp;D实验室</div>
+						<div class="logo__tagline2">Multi-Agent Control and Decision Laboratory 
+College of Engineering, Peking University</div>
 					</div>
 			</a>
 		</div>
@@ -44,7 +46,7 @@
 <nav class="menu">
 	<div class="container">
 		<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
-			<span class="menu__btn-title" tabindex="-1">Menu</span>
+			<span class="menu__btn-title" tabindex="-1">菜单</span>
 		</button>
 		<ul class="menu__list">
 			<li class="menu__item">
@@ -107,16 +109,17 @@
 		
 <main class="main" role="main">
 	<div class="warning">
-		<h1 class="warning__headline">404. Page not found</h1>
-		<p class="warning__text">The page you were looking for appears to have been moved, deleted or does not exist. Please, use search or go to <a href="/cn/">main page</a>.</p>
+		<h1 class="warning__headline">404. 抱歉，找不到您要找的页面</h1>
+		<p class="warning__text">您要找的页面可能已经被移除、刪除或不存在，不妨去首页搜索一下吧。 <a href="/cn">回到首页</a>.</p>
 	</div>
 </main>
 
 		</div>
 		
+
 <aside class="sidebar sidebar--left">
 
-</aside>
+	</aside>
 	</div>
 	<footer class="footer">
 	<div class="container footer__container flex">
@@ -125,8 +128,8 @@
 	<a class="footer__link" href="/cn/">主页</a> | <a class="footer__link" href="/cn/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/">学术研究</a> | <a class="footer__link" href="/cn/%E7%BB%84%E5%86%85%E6%88%90%E5%91%98/">组内成员</a> | <a class="footer__link" href="/cn/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/">研究成果</a> | <a class="footer__link" href="/cn/%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C/">教学工作</a> | <a class="footer__link" href="/cn/%E6%96%B0%E9%97%BB%E4%BF%A1%E6%81%AF/">新闻信息</a>
 </div>
 		<div class="footer__copyright">
-			&copy; 2022 MAC&amp;DLab, College of Engineering, Peking University.
-			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/pfadfinder-konstanz/hugo-dpsg/" rel="nofollow noopener" target="_blank">DPSG</a> theme.</span>
+			&copy; 2022 MAC&amp;D实验室，北京大学工学院。
+			<span class="footer__copyright-credits">基于 <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> 引擎。</span>
 			
 		</div>
 		
@@ -139,4 +142,12 @@
 	
 	
 </body>
+<script>
+
+window.onload=run()
+
+function run(){
+	document.querySelector("body > nav > div > ul > li:nth-child(7) > a > span").setAttribute("id","languagen");
+}
+</script>
 </html>

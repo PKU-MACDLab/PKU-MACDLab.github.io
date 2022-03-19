@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Start on Hugo DPSG</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Start on Hugo DPSG</description>
+    <title>Home on ZHONGKUI LI</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on ZHONGKUI LI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic HTML Elements</title>
-      <link>https://example.com/post/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <title>Group</title>
+      <link>http://localhost:1313/group/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/group/</guid>
+      <description> 博士后  宋威豪 贺晓东  博士生  张仕琦 苏 航 陈昱达 刘泽森 常泽泽 慕怀毅 王程瀚  硕士生  王俊杰  本科生  刘映竹  毕业学生  博士生
+ 硕士生 熊怡
+  </description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://example.com/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Home</title>
+      <link>http://localhost:1313/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>http://localhost:1313/home/</guid>
+      <description>实验室基本介绍 北京大学 工学院 MAC&amp;amp;DLab实验室 Multi-agent Control Decision (and Learning) Laboratory 聚焦在多智能体控制、规划和决策（学习）领域 了解更多 
+实验室导师   李忠奎 研究员、博士生导师（力学系统与控制学科点）
+  教育部青年长江学者 全国优博 北京市杰青 北京市科技新星 邮箱：zhongkli@pku.edu.cn    导师介绍 2005年于国防科技大学获学士学位，2010年于北京大学获博士学位，现为北京大学工学院力学与工程科学系研究员、博士生导师。主要从事无人集群系统、多智能体、分布式协同控制、协同任务决策、集群运动规划领域的研究工作。出版英文专著1部，发表期刊论文60多篇。目前担任IEEE Trans. Automatic Control（控制领域顶级期刊）、Nonlinear Analysis: Hybrid Systems（IFAC会刊之一）等SCI期刊的Associate Editor，以及《航空学报》、《控制与决策》、《空间控制技术与应用》等中文期刊的编委。
+先后入选全国优博（2012），教育部青年长江学者（2017），北京市科技新星（2018），科睿唯安高被引科学家（2018），北京市杰青（2020），爱思唯尔中国高被引学者（2020）。曾获2015年国家自然科学二等奖(排名第三)，第四届杨嘉墀科技奖二等奖，2013年IET Control Theory &amp;amp; Applications最佳论文奖，2009-2011系统科学最佳论文奖等奖励。
+在教育教学方面，2021年获北京大学教学优秀奖、北京大学-京东方奖教金。指导的研究生3人获研究生国家奖学金，1人获评为工学院学术十杰。指导学生获张嗣赢优秀青年论文奖、IEEE ICCA Best Student Paper等提名奖。 
+近期学术成果 （了解更多）   专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014.</description>
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>New 2</title>
+      <link>http://localhost:1313/news/new2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>http://localhost:1313/news/new2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://example.com/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>New1</title>
+      <link>http://localhost:1313/news/new1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/goisforlovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/news/new1/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://example.com/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Publication</title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2  代表性期刊论文：   1. Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2. Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021. 3. H. Chen, X.</description>
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>http://localhost:1313/research/</guid>
+      <description>北京大学 工学院 MAC&amp;amp;DLab实验室
+Multi-agent Control Decision (and Learning) Laboratory
+聚焦在多智能体控制决策和学习领域</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/teaching/</guid>
+      <description></description>
     </item>
     
   </channel>

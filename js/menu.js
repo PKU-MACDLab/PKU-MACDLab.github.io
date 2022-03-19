@@ -1,5 +1,4 @@
 'use strict';
-
 (function iifeMenu(document, window, undefined) {
 	var menuBtn = document.querySelector('.menu__btn');
 	var	menu = document.querySelector('.menu__list');

@@ -1,0 +1,28 @@
+.main{
+    width:100%;
+    margin-top:40px;
+}
+.main .tag{
+    margin:0 auto;
+    width:200px;
+    font-size:18px;
+    border-bottom:1px solid #878787;
+    text-align:center;
+    margin-bottom:20px;
+}
+.main .images{	
+    margin:0 auto;
+    width:800px;
+    /* //设置<div>块的大小，要实现居中效果需要经过计算 */
+}
+.main .images .mid{
+    float: left;
+    /* //设置左对齐 */
+    margin:0px;
+    /* //图片边缘间隔 */
+}		
+.main .images .mid img{
+    width:300px;
+    /* //规范图片长宽 */
+    height:200px;
+}	
