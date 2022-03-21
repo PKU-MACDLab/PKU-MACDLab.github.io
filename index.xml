@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ZHONGKUI LI</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pku-macdlab.github.io/</link>
     <description>Recent content in Home on ZHONGKUI LI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pku-macdlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group</title>
-      <link>http://localhost:1313/group/</link>
+      <link>https://pku-macdlab.github.io/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/group/</guid>
+      <guid>https://pku-macdlab.github.io/group/</guid>
       <description> 博士后  宋威豪 贺晓东  博士生  张仕琦 苏 航 陈昱达 刘泽森 常泽泽 慕怀毅 王程瀚  硕士生  王俊杰  本科生  刘映竹  毕业学生  博士生
  硕士生 熊怡
   </description>
@@ -19,10 +19,10 @@
     
     <item>
       <title>Home</title>
-      <link>http://localhost:1313/home/</link>
+      <link>https://pku-macdlab.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/</guid>
+      <guid>https://pku-macdlab.github.io/home/</guid>
       <description>实验室基本介绍 北京大学 工学院 MAC&amp;amp;DLab实验室 Multi-agent Control Decision (and Learning) Laboratory 聚焦在多智能体控制、规划和决策（学习）领域 了解更多 
 实验室导师   李忠奎 研究员、博士生导师（力学系统与控制学科点）
   教育部青年长江学者 全国优博 北京市杰青 北京市科技新星 邮箱：zhongkli@pku.edu.cn    导师介绍 2005年于国防科技大学获学士学位，2010年于北京大学获博士学位，现为北京大学工学院力学与工程科学系研究员、博士生导师。主要从事无人集群系统、多智能体、分布式协同控制、协同任务决策、集群运动规划领域的研究工作。出版英文专著1部，发表期刊论文60多篇。目前担任IEEE Trans. Automatic Control（控制领域顶级期刊）、Nonlinear Analysis: Hybrid Systems（IFAC会刊之一）等SCI期刊的Associate Editor，以及《航空学报》、《控制与决策》、《空间控制技术与应用》等中文期刊的编委。
@@ -33,37 +33,37 @@
     
     <item>
       <title>New 2</title>
-      <link>http://localhost:1313/news/new2/</link>
+      <link>https://pku-macdlab.github.io/news/new2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/news/new2/</guid>
+      <guid>https://pku-macdlab.github.io/news/new2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New1</title>
-      <link>http://localhost:1313/news/new1/</link>
+      <link>https://pku-macdlab.github.io/news/new1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/news/new1/</guid>
+      <guid>https://pku-macdlab.github.io/news/new1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://pku-macdlab.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/</guid>
+      <guid>https://pku-macdlab.github.io/publication/</guid>
       <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2  代表性期刊论文：   1. Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2. Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021. 3. H. Chen, X.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://pku-macdlab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://pku-macdlab.github.io/research/</guid>
       <description>北京大学 工学院 MAC&amp;amp;DLab实验室
 Multi-agent Control Decision (and Learning) Laboratory
 聚焦在多智能体控制决策和学习领域</description>
@@ -71,10 +71,10 @@ Multi-agent Control Decision (and Learning) Laboratory
     
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://pku-macdlab.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://pku-macdlab.github.io/teaching/</guid>
       <description></description>
     </item>
     
