@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cn/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</guid>
-      <description>研究方向    主要研究方向 主要研究方向 无人集群系统、多智能体分布式协同控制、协同任务决策、集群运动规划 属于自动控制、人工智能、机器人、系统科学的交叉方向    1、分布式协同控制 自然界中广泛存在的蜂群、鱼群、鸟群是大量简单个体通过去中心化、分布式（仅基于局部信息交互）协同而在集体层面上表现的自组织行为。分布式协同控制致力于研究基于局部信息交互的协同机制，是多智能体具备1+1&amp;gt;2的集群效能和涌现群体智能的基本问题。多智能体系统的高维数和网络拓扑引入的结构性约束，使得分布式协同控制成为新世纪以来控制领域的主要挑战问题之一和前沿研究方向。我们主要针对协同控制中的一致性，编队，分布式跟踪、分布式滤波等课题，侧重于面向弹性可扩展的完全分布式协同、面向信息少交互的事件驱动协同、针对不确定性和干扰的鲁棒协同控制的基本理论以及在无人机集群上的应用验证。     
+      <description>研究方向    主要研究方向 多智能体、无人集群系统分布式协同控制、协同任务决策、集群运动规划 属于自动控制、人工智能、机器人、系统科学的交叉方向    1、分布式协同控制 自然界中广泛存在的蜂群、鱼群、鸟群是大量简单个体通过去中心化、分布式（仅基于局部信息交互）协同而在集体层面上表现的自组织行为。分布式协同控制致力于研究基于局部信息交互的协同机制，是多智能体具备1+1&amp;gt;2的集群效能和涌现群体智能的基本问题。多智能体系统的高维数和网络拓扑引入的结构性约束，使得分布式协同控制成为新世纪以来控制领域的主要挑战问题之一和前沿研究方向。我们主要针对协同控制中的一致性，编队，分布式跟踪、分布式滤波等课题，侧重于面向弹性可扩展的完全分布式协同、面向信息少交互的事件驱动协同、针对不确定性和干扰的鲁棒协同控制的基本理论以及在无人机集群上的应用验证。     
     2、协同任务决策 协同任务决策将人为指定的任务分析处理为一系列的具象化子任务，并通过任务分配方法以某类最/次优的方式分配给多智能体，是提升集群系统任务能力和智能水平的关键。属于人工智能、管理科学的前沿方向。针对目前存在的任务建模难、维数灾难、实时性与可解释性差等局限与挑战，我们开展基于线性时序逻辑（LTL）为代表的形式化语言的协同任务决策研究：对于自上而下的复杂全局任务，研究任务的理解与拆分，提出具有异步并发机制和在线适应能力的快速决策方法；对于自下而上的任务协同，研究信息交互约束与动态环境下的分布式协同决策方法。     
   3、协同运动规划 协同运动规划是机器人领域的重要课题，其目的是为无人集群协同规划满足动力学与运动约束，能够避碰和规避障碍物的路径或轨迹。运动规划属于典型的最优控制问题，集中式方法的计算复杂度与规模存在非线性增长关系，对于大规模集群不可行。我们研究动态、障碍环境下的分布式协同运动规划问题，致力于提出基于滚动优化、空间分割与机器学习的新型在线轨迹生成方法，解决可行性、死锁破解、通信保持、区域避障等难点问题。     
 
@@ -30,7 +30,7 @@
 恭喜张仕琦荣获2020-2021学年工学院国家奖学金！
 恭喜苏航荣获2020-2021学年工学院五四奖学金！
 2021/04/19
-李忠奎教授入选2020全球前2%顶尖科学家榜单！  动态 2022/02/23
+李忠奎老师入选2020全球前2%顶尖科学家榜单！  动态 2022/02/23
 实验室召开新学期启动会议。
 2022/01/29
 李忠奎老师组织实验室同学（返乡同学线上）聚餐，迎接新年！</description>
@@ -42,7 +42,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cn/%E7%BB%84%E5%86%85%E6%88%90%E5%91%98/</guid>
-      <description>招贤纳士 For Perspective Students For Perspective Students -- 本科生 实验室长期招收本科生从事本科生科研工作，表现优异者可优先获得保研资格。欢迎对科研实践感兴趣，可以线下开展本研的学生加入！
+      <description>招贤纳士 For Perspective Students For Perspective Students -- 本科生 实验室长期招收本科生从事本科生科研工作，表现优异者在保研时可优先录取。欢迎对科研实践感兴趣，可以线下开展本研的学生加入！
 背景要求：有志于从事创新研究，有良好的数学或编程基础，英语水平良好。 研究生 每年招生博士研究生1-2名，硕士1-2名。
 背景要求：有志于从事创新研究，self-motivated，具有扎实的数理基础，或/和编程、动手能力，英语水平良好。 
 长期招收博士后 多智能体、无人系统方向，欢迎申请北京大学的博雅博士后。有意者请发送简历和2篇代表性论文至李忠奎教授的邮箱。  组内成员     实验室大家庭  博士后  宋威豪 博雅博士后  加入时间： 2020年
@@ -84,7 +84,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/cn/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</guid>
-      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2  代表性期刊论文：   1. Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2. Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021. 3. H. Chen, X.</description>
+      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2     代表性期刊论文：   1. Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2. Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021.</description>
     </item>
     
   </channel>
