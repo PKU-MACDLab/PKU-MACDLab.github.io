@@ -2,35 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>实验室主页 on ZHONGKUI LI</title>
-    <link>https://pku-macdlab.github.io/cn/</link>
+    <link>https://example.com/cn/</link>
     <description>Recent content in 实验室主页 on ZHONGKUI LI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn-zh</language><atom:link href="https://pku-macdlab.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn-zh</language><atom:link href="https://example.com/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://pku-macdlab.github.io/cn/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</link>
+      <link>https://example.com/cn/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/cn/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</guid>
-      <description>研究方向    主要研究方向 多智能体、无人集群系统分布式协同控制、协同任务决策、集群运动规划 属于自动控制、人工智能、机器人、系统科学的交叉方向    1、分布式协同控制 自然界中广泛存在的蜂群、鱼群、鸟群是大量简单个体通过去中心化、分布式（仅基于局部信息交互）协同而在集体层面上表现的自组织行为。分布式协同控制致力于研究基于局部信息交互的协同机制，是多智能体具备1+1&amp;gt;2的集群效能和涌现群体智能的基本问题。多智能体系统的高维数和网络拓扑引入的结构性约束，使得分布式协同控制成为新世纪以来控制领域的主要挑战问题之一和前沿研究方向。我们主要针对协同控制中的一致性，编队，分布式跟踪、分布式滤波等课题，侧重于面向弹性可扩展的完全分布式协同、面向信息少交互的事件驱动协同、针对不确定性和干扰的鲁棒协同控制的基本理论以及在无人机集群上的应用验证。     
-    2、协同任务决策 协同任务决策将人为指定的任务分析处理为一系列的具象化子任务，并通过任务分配方法以某类最/次优的方式分配给多智能体，是提升集群系统任务能力和智能水平的关键。属于人工智能、管理科学的前沿方向。针对目前存在的任务建模难、维数灾难、实时性与可解释性差等局限与挑战，我们开展基于线性时序逻辑（LTL）为代表的形式化语言的协同任务决策研究：对于自上而下的复杂全局任务，研究任务的理解与拆分，提出具有异步并发机制和在线适应能力的快速决策方法；对于自下而上的任务协同，研究信息交互约束与动态环境下的分布式协同决策方法。     
-  3、协同运动规划 协同运动规划是机器人领域的重要课题，其目的是为无人集群协同规划满足动力学与运动约束，能够避碰和规避障碍物的路径或轨迹。运动规划属于典型的最优控制问题，集中式方法的计算复杂度与规模存在非线性增长关系，对于大规模集群不可行。我们研究动态、障碍环境下的分布式协同运动规划问题，致力于提出基于滚动优化、空间分割与机器学习的新型在线轨迹生成方法，解决可行性、死锁破解、通信保持、区域避障等难点问题。     
-
-研究项目  经费支持： 本实验室的研究工作得到了国家基金委、教育部、北京市、JW科技委的经费支持，并与航天院所开展了深入合作。 部分在研项目： 国家自然科学基金创新群体项目：无人集群系统协同控制与决策，T2121002，2022-2026，1000万，骨干成员。 北京市杰出青年科学基金项目：无人集群系统分布式规划与协同控制，JQ20025，2020-2023，100万，主持。 国家自然科学基金面上项目：基于事件驱动的完全分布式协同控制研究，61973006，2020-2023，63万，主持 
-实验室介绍    北京大学工学院MAC&amp;amp;D实验室位于北京大学圆明园校区，由李忠奎教授担任主要负责人，实验室聚焦于多智能体协同控制和决策领域的前沿研究。MAC&amp;amp;D实验室依托研究资金支持，对标国际一流机器人实验室配置，目前拥有OptiTrack动作捕捉系统、Crazyswarm无人机集群系统，以及Wheeltec无人车系统等多套实验设备。 实验室硬件系统架构      实验室环境  --  实验室环境</description>
+      <guid>https://example.com/cn/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</guid>
+      <description> 研究方向 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pku-macdlab.github.io/cn/%E6%96%B0%E9%97%BB%E4%BF%A1%E6%81%AF/</link>
+      <link>https://example.com/cn/%E6%96%B0%E9%97%BB%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/cn/%E6%96%B0%E9%97%BB%E4%BF%A1%E6%81%AF/</guid>
+      <guid>https://example.com/cn/%E6%96%B0%E9%97%BB%E4%BF%A1%E6%81%AF/</guid>
       <description>新闻 2021/09/23
 恭喜张仕琦荣获2020-2021学年工学院国家奖学金！
 恭喜苏航荣获2020-2021学年工学院五四奖学金！
 2021/04/19
-李忠奎老师入选2020全球前2%顶尖科学家榜单！  动态 2022/02/23
+李忠奎教授入选2020全球前2%顶尖科学家榜单！ 动态 2022/02/23
 实验室召开新学期启动会议。
 2022/01/29
 李忠奎老师组织实验室同学（返乡同学线上）聚餐，迎接新年！</description>
@@ -38,53 +33,51 @@
     
     <item>
       <title></title>
-      <link>https://pku-macdlab.github.io/cn/%E7%BB%84%E5%86%85%E6%88%90%E5%91%98/</link>
+      <link>https://example.com/cn/%E7%BB%84%E5%86%85%E6%88%90%E5%91%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/cn/%E7%BB%84%E5%86%85%E6%88%90%E5%91%98/</guid>
-      <description>招贤纳士 For Prospective Students For Perspective Students -- 本科生 实验室长期招收本科生从事本科生科研工作，表现优异者在保研时可优先录取。欢迎对科研实践感兴趣，可以线下开展本研的学生加入！
+      <guid>https://example.com/cn/%E7%BB%84%E5%86%85%E6%88%90%E5%91%98/</guid>
+      <description> 招贤纳士 For Prospective Students 本科生 实验室长期招收本科生从事本科生科研工作，表现优异者可优先获得保研资格。欢迎对科研实践感兴趣，可以线下开展本研的学生加入！
 背景要求：有志于从事创新研究，有良好的数学或编程基础，英语水平良好。 研究生 每年招生博士研究生1-2名，硕士1-2名。
-背景要求：有志于从事创新研究，self-motivated，具有扎实的数理基础，或/和编程、动手能力，英语水平良好。 
-长期招收博士后 多智能体、无人系统方向，欢迎申请北京大学的博雅博士后。有意者请发送简历和2篇代表性论文至李忠奎教授的邮箱。  组内成员     实验室大家庭  博士后  宋威豪 博雅博士后  加入时间： 2020年
-研究方向： 状态估计     贺晓东  加入时间： 2020年
+背景要求：有志于从事创新研究，self-motivated，具有扎实的数理基础，或/和编程、动手能力，英语水平良好。 长期招收博士后 多智能体、无人系统方向，欢迎申请北京大学的博雅博士后。有意者请发送简历和2篇代表性论文至李忠奎教授的邮箱。 组内成员 实验室大家庭 博士后 宋威豪 博雅博士后 加入时间： 2020年
+研究方向： 状态估计 贺晓东 加入时间： 2020年
 研究方向： 欠驱动多运载体协同控制，力学系统几何控制理论，非完整运载体运动规划
-邮箱：hxdupc@pku.edu.cn     在读学生  博士生   张仕琦 2017级  研究方向： 鲁棒控制、分布式控制、强化学习
-荣誉奖励: 国家奖学金、三好学生标兵
-学术成果: 点击查看详情
-个人主页: 谷歌学术主页     苏　航 2018级  研究方向： 事件驱动控制、完全分布式控制</description>
+邮箱：hxdupc@pku.edu.cn 在读学生 博士生 刘泽森 2019级 研究方向： 多智能体集群的任务决策 陈昱达 2019级 研究方向： 智能体轨迹优化、多智能体协同规划 常泽泽 2020级 研究方向： 编队集群控制、数据驱动控制、事件触发控制 王程瀚 2021级 研究方向： 多智能体系统
+的路径规划与任务分配 慕怀毅 2021级 研究方向： 分布式优化、隐私保护 刘映竹 2022级 研究方向： 分布式优化
+乔亦可 2022级 研究方向： 弹群协同控制与博弈
+硕士生 王俊杰 2022级 研究方向： 基于LTL的多智能体协同规划，强化学习
+邮箱： pkuwjj1998@163.com 肖　阳 2022级 研究方向： 暂无 本科生 董豪泽 2019级 学术兴趣： 暂无 毕业生 博士生毕业生 苏　航 2018级博士生 研究方向： 事件驱动控制、完全分布式控制 毕业去向： 北京航空航天大学 张仕琦 2017级博士 研究方向： 鲁棒控制、分布式控制、强化学习 毕业去向：香港城市大学 武籽臻 2016级博士生 研究方向： 分布式优化 毕业去向： 中信集团 程　斌 2015级博士 研究方向： 完全分布式事件触发控制 毕业去向： 同济大学 刘　淼 2014级博士生 研究方向： 分布式鲁棒控制 毕业去向： 中国电子科技集团十四所 硕士毕业生 熊　怡 2018级硕士生 研究方向： 多智能体网络的隐私保护 毕业去向： 华为集团 郭少攀 2016级硕士生 研究方向： 分布式状态估计 毕业去向： Louisiana State University 张　婷 2018级硕士生 研究方向： 多智能体网络的弹性控制 毕业去向： 山西省应急管理厅 </description>
     </item>
     
     <item>
       <title>导师个人主页</title>
-      <link>https://pku-macdlab.github.io/cn/%E5%AF%BC%E5%B8%88%E4%B8%BB%E9%A1%B5/</link>
+      <link>https://example.com/cn/%E5%AF%BC%E5%B8%88%E4%B8%BB%E9%A1%B5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/cn/%E5%AF%BC%E5%B8%88%E4%B8%BB%E9%A1%B5/</guid>
-      <description>实验室导师   李忠奎 研究员、博士生导师（力学系统与控制学科点）   教育部青年长江学者 全国优博 北京杰出青年基金获得者 邮箱：zhongkli@pku.edu.cn    导师介绍 李忠奎2005年于国防科技大学获学士学位，2010年于北京大学获博士学位，现为北京大学工学院力学与工程科学系研究员、博士生导师。主要从事分布式协同控制与决策、无人集群系统等人工智能与自动控制交叉领域的研究工作。出版英文专著1部，发表期刊论文60多篇。目前担任IEEE Trans. Automatic Control（控制领域顶级期刊）、Nonlinear Analysis: Hybrid Systems（IFAC会刊之一）等SCI期刊的Associate Editor，以及《航空学报》、《控制与决策》、《空间控制技术与应用》等中文期刊的编委。
-先后入选全国优博（2012），教育部青年长江学者（2017），北京市科技新星（2018），科睿唯安高被引科学家（2018），北京市杰青（2020），爱思唯尔中国高被引学者（2020）。曾获2015年国家自然科学二等奖(排名第三)，第四届杨嘉墀科技奖二等奖，2013年IET Control Theory &amp;amp; Applications最佳论文奖，2009-2011系统科学最佳论文奖等奖励。
-在教育教学方面，2021年获北京大学教学优秀奖、北京大学-京东方奖教金。指导的研究生3人获研究生国家奖学金，1人获评为工学院学术十杰。指导学生获张嗣赢优秀青年论文奖、IEEE ICCA Best Student Paper等提名奖。 
-近期学术成果 （了解更多）   专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2 
-近期代表性论文： 1. Y. Xiong, Z. Li, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, provisionally accepted for publication, 2021.</description>
+      <guid>https://example.com/cn/%E5%AF%BC%E5%B8%88%E4%B8%BB%E9%A1%B5/</guid>
+      <description>实验室导师 李忠奎 研究员、博士生导师（力学系统与控制学科点） 教育部青年长江学者 全国优博 北京杰出青年基金获得者 邮箱：zhongkli@pku.edu.cn 导师介绍 李忠奎2005年于国防科技大学获学士学位，2010年于北京大学获博士学位，现为北京大学工学院力学与工程科学系研究员、博士生导师。主要从事分布式协同控制与决策、无人集群系统等人工智能与自动控制交叉领域的研究工作。出版英文专著1部，发表期刊论文60多篇。目前担任IEEE Trans. Automatic Control（控制领域顶级期刊）、Nonlinear Analysis: Hybrid Systems（IFAC会刊之一）等SCI期刊的Associate Editor，以及《航空学报》、《控制与决策》、《空间控制技术与应用》等中文期刊的编委。
+先后入选全国优博（2012），教育部青年长江学者（2017），北京市科技新星（2018），科睿唯安高被引科学家（2018），北京市杰青（2020），爱思唯尔中国高被引学者（2020）。曾获2015年国家自然科学二等奖(排名第三)，第四届杨嘉墀科技奖二等奖，2013年IET Control Theory &amp; Applications最佳论文奖，2009-2011系统科学最佳论文奖等奖励。
+在教育教学方面，2021年获北京大学教学优秀奖、北京大学-京东方奖教金。指导的研究生3人获研究生国家奖学金，1人获评为工学院学术十杰。指导学生获张嗣赢优秀青年论文奖、IEEE ICCA Best Student Paper等提名奖。 近期学术成果 （了解更多） 专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2 近期代表性论文： 1.	Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, provisionally accepted for publication, 2021.</description>
     </item>
     
     <item>
       <title>教学工作</title>
-      <link>https://pku-macdlab.github.io/cn/%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C/</link>
+      <link>https://example.com/cn/%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/cn/%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C/</guid>
-      <description>本科生教学 理论力学（元培学院）4学分
-工学创新实践课 3学分   研究生教学 非线性控制基础 3学分
-网络化控制选讲 3学分   教学成果 在教育教学方面，2021年获北京大学教学优秀奖、北京大学-京东方奖教金。 指导的研究生中3人获研究生国家奖学金，1人获评为工学院学术十杰。指导学生获张嗣赢优秀青年论文奖、IEEE ICCA Best Student Paper等提名奖。</description>
+      <guid>https://example.com/cn/%E6%95%99%E5%AD%A6%E5%B7%A5%E4%BD%9C/</guid>
+      <description> 本科生教学 理论力学（元培学院）4学分
+工学创新实践课 3学分 研究生教学 非线性控制基础 3学分
+网络化控制选讲 3学分 教学成果 在教育教学方面，2021年获北京大学教学优秀奖、北京大学-京东方奖教金。 指导的研究生中3人获研究生国家奖学金，1人获评为工学院学术十杰。指导学生获张嗣赢优秀青年论文奖、IEEE ICCA Best Student Paper等提名奖。 </description>
     </item>
     
     <item>
       <title>研究成果</title>
-      <link>https://pku-macdlab.github.io/cn/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</link>
+      <link>https://example.com/cn/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/cn/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</guid>
-      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2     代表性期刊论文：   1. Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2. Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021.</description>
+      <guid>https://example.com/cn/%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C/</guid>
+      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2 代表性期刊论文： 1.	Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2.	Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021. 3.	H. Chen, X. Wang, L.</description>
     </item>
     
   </channel>
