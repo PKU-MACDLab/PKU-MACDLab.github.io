@@ -2,79 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ZHONGKUI LI</title>
-    <link>https://pku-macdlab.github.io/</link>
+    <link>https://example.com/</link>
     <description>Recent content in Home on ZHONGKUI LI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://pku-macdlab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group</title>
-      <link>https://pku-macdlab.github.io/group/</link>
+      <link>https://example.com/group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/group/</guid>
-      <description> 博士后  宋威豪 贺晓东  博士生  张仕琦 苏 航 陈昱达 刘泽森 常泽泽 慕怀毅 王程瀚  硕士生  王俊杰  本科生  刘映竹  毕业学生  博士生
- 硕士生 熊怡
-  </description>
+      <guid>https://example.com/group/</guid>
+      <description>博士后 宋威豪 贺晓东 博士生 张仕琦 苏 航 陈昱达 刘泽森 常泽泽 慕怀毅 王程瀚 硕士生 王俊杰 本科生 刘映竹 毕业学生 博士生
+硕士生 熊怡</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://pku-macdlab.github.io/home/</link>
+      <link>https://example.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/home/</guid>
-      <description>实验室基本介绍 北京大学 工学院 MAC&amp;amp;DLab实验室 Multi-agent Control Decision (and Learning) Laboratory 聚焦在多智能体控制、规划和决策（学习）领域 了解更多 
-实验室导师   李忠奎 研究员、博士生导师（力学系统与控制学科点）
-  教育部青年长江学者 全国优博 北京市杰青 北京市科技新星 邮箱：zhongkli@pku.edu.cn    导师介绍 2005年于国防科技大学获学士学位，2010年于北京大学获博士学位，现为北京大学工学院力学与工程科学系研究员、博士生导师。主要从事无人集群系统、多智能体、分布式协同控制、协同任务决策、集群运动规划领域的研究工作。出版英文专著1部，发表期刊论文60多篇。目前担任IEEE Trans. Automatic Control（控制领域顶级期刊）、Nonlinear Analysis: Hybrid Systems（IFAC会刊之一）等SCI期刊的Associate Editor，以及《航空学报》、《控制与决策》、《空间控制技术与应用》等中文期刊的编委。
-先后入选全国优博（2012），教育部青年长江学者（2017），北京市科技新星（2018），科睿唯安高被引科学家（2018），北京市杰青（2020），爱思唯尔中国高被引学者（2020）。曾获2015年国家自然科学二等奖(排名第三)，第四届杨嘉墀科技奖二等奖，2013年IET Control Theory &amp;amp; Applications最佳论文奖，2009-2011系统科学最佳论文奖等奖励。
-在教育教学方面，2021年获北京大学教学优秀奖、北京大学-京东方奖教金。指导的研究生3人获研究生国家奖学金，1人获评为工学院学术十杰。指导学生获张嗣赢优秀青年论文奖、IEEE ICCA Best Student Paper等提名奖。 
-近期学术成果 （了解更多）   专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014.</description>
+      <guid>https://example.com/home/</guid>
+      <description> Under development, please look forward to it！ </description>
     </item>
     
     <item>
       <title>New 2</title>
-      <link>https://pku-macdlab.github.io/news/new2/</link>
+      <link>https://example.com/news/new2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/news/new2/</guid>
+      <guid>https://example.com/news/new2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New1</title>
-      <link>https://pku-macdlab.github.io/news/new1/</link>
+      <link>https://example.com/news/new1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/news/new1/</guid>
+      <guid>https://example.com/news/new1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>https://pku-macdlab.github.io/publication/</link>
+      <link>https://example.com/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/publication/</guid>
-      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2  代表性期刊论文：   1. Y. Xiong, Z. Li*, Privacy-preserved average consensus algorithm with edge-based additive perturbations, Automatica, in press, 2022. 2. Z. Wu, Z. Li*, Distributed robust optimization algorithms over uncertain network graphs, IEEE Transactions on Cybernetics, in press, 2021. 3. H. Chen, X.</description>
+      <guid>https://example.com/publication/</guid>
+      <description>专著： Z.K. Li, Z.S. Duan, Cooperative Control of Multi-agent Systems: A Consensus Region Approach, Taylor &amp;amp; Francis / CRC Press, Boca Roton, FL, 2014. ISBN: 978-1-4665-6994-2 部分论文列表： 1. Z.K. Li, Z.T. Ding, Distributed adaptive consensus and output tracking of unknown linear systems on directed graphs, Automatica, 55: 12-18, 2015.
+2.&amp;nbsp; Z.K. Li, G.H. Wen, Z.S. Duan, W. Ren, Designing fully distributed consensus protocols for linear multi-agent systems with directed graphs, IEEE Transactions on Automatic Control, 60(4): 1152-1157, 2015.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://pku-macdlab.github.io/research/</link>
+      <link>https://example.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/research/</guid>
-      <description>北京大学 工学院 MAC&amp;amp;DLab实验室
-Multi-agent Control Decision (and Learning) Laboratory
-聚焦在多智能体控制决策和学习领域</description>
+      <guid>https://example.com/research/</guid>
+      <description>北京大学 工学院 MAC&amp;amp;DLab实验室\
+Multi-agent Control Decision (and Learning) Laboratory\
+聚焦在多智能体控制决策和学习领域\</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://pku-macdlab.github.io/teaching/</link>
+      <link>https://example.com/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pku-macdlab.github.io/teaching/</guid>
+      <guid>https://example.com/teaching/</guid>
       <description></description>
     </item>
     
